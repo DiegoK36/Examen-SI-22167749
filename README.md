@@ -10,5 +10,5 @@ Este repositorio contiene las respuestas del examen parcial de la asignatura de 
 ## 🛠️ Herramientas Utilizadas
 - RapidMiner
 
-## 📝 Licencia
+## 📝 Desarrollador
 Esta resolución ha sido realizada por Diego Rodríguez - 22167749
